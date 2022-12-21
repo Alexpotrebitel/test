@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\bin\Debug\net6.0\example 06.exe
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\bin\Debug\net6.0\example 06.deps.json
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\bin\Debug\net6.0\example 06.runtimeconfig.json
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\bin\Debug\net6.0\example 06.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\bin\Debug\net6.0\example 06.pdb
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\example 06.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\example 06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\example 06.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\example 06.AssemblyInfo.cs
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\example 06.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\example 06.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\refint\example 06.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\example 06.pdb
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\example 06.genruntimeconfig.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example 06\obj\Debug\net6.0\ref\example 06.dll
