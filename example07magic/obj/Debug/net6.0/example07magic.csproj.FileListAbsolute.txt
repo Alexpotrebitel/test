@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\bin\Debug\net6.0\example07magic.exe
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\bin\Debug\net6.0\example07magic.deps.json
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\bin\Debug\net6.0\example07magic.runtimeconfig.json
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\bin\Debug\net6.0\example07magic.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\bin\Debug\net6.0\example07magic.pdb
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\example07magic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\example07magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\example07magic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\example07magic.AssemblyInfo.cs
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\example07magic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\example07magic.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\refint\example07magic.dll
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\example07magic.pdb
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\example07magic.genruntimeconfig.cache
+C:\Users\User\Desktop\гикбрейнс\с#\EXAMPLES\example07magic\obj\Debug\net6.0\ref\example07magic.dll
